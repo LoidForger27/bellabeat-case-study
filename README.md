@@ -1,8 +1,6 @@
 # Bellabeat Case Study: Smart Device Usage Data
 
-<img src="steps_histogram.png" alt="Bellabeat cover" width="100%">
-*Example banner – replace with any cover image you like*
-
+![Alt text](https://img.freepik.com/free-vector/marathon-race_52683-9471.jpg)
 ---
 
 ## 📖 Project Overview
