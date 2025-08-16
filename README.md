@@ -1,6 +1,6 @@
 # Bellabeat Case Study: Smart Device Usage Data
 
-![Banner](visuals/steps_histogram.png)  
+<img src="steps_histogram.png" alt="Bellabeat cover" width="100%">
 *Example banner – replace with any cover image you like*
 
 ---
@@ -22,18 +22,31 @@ The goal was to analyze smart device usage data (Fitbit dataset from Kaggle) to 
 ## 📂 Repository Structure
 
 bellabeat-case-study/
+
 ├─ data/
+
 │ ├─ raw/ # not stored here, see Kaggle link
+
 │ └─ clean/ # daily_joined.csv and other small outputs
+
 ├─ scripts/
+
 │ ├─ 01_cleaning.R
+
 │ ├─ 02_analysis.R
+
 │ └─ 03_visualizations.R
+
 ├─ visuals/
+
 │ ├─ steps_histogram.png
+
 │ ├─ sleep_histogram.png
+
 │ ├─ steps_vs_calories.png
+
 │ └─ sleep_vs_steps.png
+
 └─ README.md
 
 
@@ -50,7 +63,7 @@ bellabeat-case-study/
 
 ## 🔗 Kaggle Notebook
 The full analysis, code, and interactive visuals are available here:  
-👉 [View on Kaggle](https://www.kaggle.com/) *(insert your Kaggle notebook link here)*
+👉 [View on Kaggle](https://www.kaggle.com/) *(https://www.kaggle.com/code/josephbaguio/bellabeat-marketing-analysis-fitbit-data)*
 
 ---
 
@@ -65,7 +78,7 @@ The full analysis, code, and interactive visuals are available here:
 ## 📌 How to Reproduce
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/bellabeat-case-study.git
+   git clone https://github.com/LoidForger27/bellabeat-case-study.git
 2. Open R or RStudio
 3. Run scripts in the scripts/ folder in order.
 4. Cleaned data will be stored in data/clean/ and visuals in visuals/.
